@@ -1,32 +1,32 @@
 # 💻 Skills
 
-## General Tech Stacks
-- Architecture Design
-- Desktop App Development
-- Web Development (Frontend & Backend)
+## Tumpukan Teknologi Umum
 
-## Programming languages
-- C# .NET
-- Python
-- JavaScript/TypeScript
-  - React.js
-- T-SQL
-- Go
+- Pengembangan Web (Frontend & Backend)
+- Pengembangan Aplikasi Mobile
+
+## Bahasa Pemrograman
+
+- C
 - C++
 - Java
+- JavaScript
+- PHP
+- C# .NET
+- Python
 - VB.NET/VBA
+- Pascal
 
-## Databases
-- MSSQL
-- PostgreSQL
+## Database
+
 - MySQL
-- SQLite
 
-## Cloud
+<!-- ## Cloud
 - Azure
 - GCP
 - Heroku
-- Render
+- Render -->
 
-## Vcs
-- Git
+<!-- ## Vcs
+
+- Git -->
